@@ -24,7 +24,7 @@ Users should be able to:
 
 ### Screenshot
 
-![Finished challenge](images\stats-preview-card-component-finished.png)
+![Finished challenge](./images/stats-preview-card-component-finished.png)
 
 ### Links
 
